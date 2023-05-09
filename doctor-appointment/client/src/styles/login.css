@@ -1,0 +1,27 @@
+.left-content {
+    width: 75%;
+    margin-right: 25px;
+}
+.features {
+    list-style: none;
+}
+.icon-advice {
+    padding-bottom: 35px;
+    padding-right: 30px;
+}
+.header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #005a57;
+}
+.login-form{
+    width: 25%;
+    margin-top: -75px !important;
+}
+.register {
+    height: 40px;
+    width: 100% !important;
+}
+.ant-button{
+    padding-top: 4px !important;
+}

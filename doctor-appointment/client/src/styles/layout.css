@@ -1,0 +1,77 @@
+html, body {
+    overflow-y: auto;
+}
+.navbar {
+    background-color: cadetblue;
+    height: 75px;
+}
+.menu-items {
+    width: 850px;
+}
+
+.menu-items{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 95px;
+    }
+.menu {
+    padding-right: 25px;
+}
+.menu:hover {
+    text-decoration: underline;
+    color: white;
+}
+.nav-link {
+    color: white !important; 
+}
+.profile {
+    float: right;
+    margin-left: 285px;
+}
+.nav-item, a{
+    font-size: 20px;
+}
+.ant-badge {
+    font-size: 35px;
+}
+.ri-notification-line {
+    padding: 0.3rem;
+}
+.ant-badge-count {
+    color: black;
+    background-color: white;
+    top: 7px;
+    right: 12px;
+}
+.user-name {
+    font-size: 15px;
+    width: 115px;
+}
+.logout {
+    font-size: 18px;
+}
+.container{
+    margin-top: 45px;
+}
+.cards {
+    margin-bottom: 25px;
+}
+.card-title {
+    border-bottom: 1px solid;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    background-color: lightblue;
+    padding-left: 15px;
+}
+.user-section {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 18px;
+}
+@media screen and (max-width: 768px){
+  
+    .menu{
+        padding: 0 5px;
+    }
+    
+}
